@@ -7,6 +7,16 @@
     --default-width: 100%;
     --default-height: 100%;
 }
+@font-face {
+  font-family: "The Historia Demo";
+  src: url(historia demo.woff);
+  src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot"); 
+  src: url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.eot?#iefix") format("embedded-opentype"), 
+       url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff2") format("woff2"), 
+       url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.woff") format("woff"), 
+       url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.ttf") format("truetype"), 
+       url("//db.onlinewebfonts.com/t/0923ee644c97a87d70269aa80a6f1e79.svg#The Historia Demo") format("svg");
+}
 /* End of Variables */
 
 /*Start global*/
