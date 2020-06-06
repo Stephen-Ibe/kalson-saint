@@ -24,12 +24,12 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 html{
     font-size: 10px;
     font-family: var(--font-family);
     color: var(--main-color);
-    overflow-x: hidden;
 }
 
 body{
